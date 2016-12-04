@@ -40,7 +40,7 @@
             android:layout_marginBottom="32dp"
             android:id="@+id/facebookButton"
             app:rippleColor="?attr/actionMenuTextColor"
-            android:onClick="sendMessage"
+            android:onClick="sendFacebook"
             android:layout_alignParentBottom="true"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
